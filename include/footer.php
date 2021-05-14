@@ -69,9 +69,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p>Copyright &copy; 2021 Enacts Aswan.
+                        <p>Copyright &copy; 2021 Enactus Aswan.
 
-                        - Design: <a rel="nofollow noopener" href="index.php">Enacts Aswan</a></p>
+                        - Design: <a rel="nofollow noopener" href="index.php">Enactus Aswan</a></p>
                     </div>
                 </div>
             </div>
