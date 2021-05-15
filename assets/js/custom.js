@@ -23,8 +23,10 @@ jQuery( document ).ready(function( $ ) {
       var header = $('header').height();
 
       if (scroll >= box - header) {
+        $(".navbar .navbar-brand .logo").attr("src", "/assets/images/enactus-logo-gray.png");
         $("header").addClass("background-header");
       } else {
+        $(".navbar .navbar-brand .logo").attr("src", "/assets/images/enactus-logo-white.png");
         $("header").removeClass("background-header");
       }
     });

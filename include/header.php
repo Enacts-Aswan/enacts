@@ -9,13 +9,20 @@
         <meta name="description" content="">
         <meta name="author" content="Enactus Aswan IT Team">
         <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
-
+        
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="../assets/images/favicon/site.webmanifest">
+        
+        <!-- Title generated automatically -->
         <title><?php
                 // Dynamically chanege page title
                 if (isset($pageName)) {
                     echo $pageName;
                 } else {
-                    echo "Enacts Aswan | Home";
+                    echo "Enactus Aswan | Home";
                 }
                 ?>
         </title>
@@ -42,7 +49,9 @@
         <header class="">
             <nav class="navbar navbar-expand-md">
                 <div class="container">
-                    <a class="navbar-brand" href="index.php"><h2>Enactus</h2></a>
+                    <a class="navbar-brand" href="index.php">
+                        <img src="/assets/images/enactus-logo-white.png" class="logo">
+                    </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -56,7 +65,7 @@
                             <li class="nav-item <?php if($current == "about"){ echo "active"; }?>">
                                 <a class="nav-link" href="about.php">About Us</a>
                             </li>
-                            <li class="nav-item <?php if($current == "services"){ echo "active"; }?>">
+                            <li class="nav-item <?php if($current == "projects"){ echo "active"; }?>">
                                 <a class="nav-link" href="projects.php">Our Projects</a>
                             </li>
                             <li class="nav-item <?php if($current == "contact"){ echo "active"; }?>">

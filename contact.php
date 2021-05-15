@@ -1,5 +1,5 @@
 <?php
-  $pageName = "Enacts Aswan | Home";
+  $pageName = "Enactus Aswan | Home";
   include "include/header.php";
 ?>
     <!-- Page Content -->

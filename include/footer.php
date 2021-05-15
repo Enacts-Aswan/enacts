@@ -3,23 +3,19 @@
         <div class="container">
             <div class="row">
             <div class="col-md-3 footer-item">
-                <h4>Finance Business</h4>
-                <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
-                <ul class="social-icons">
-                <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                </ul>
+                Image
             </div>
             <div class="col-md-3 footer-item">
-                <h4>Useful Links</h4>
-                <ul class="menu-list">
-                <li><a href="#">Vivamus ut tellus mi</a></li>
-                <li><a href="#">Nulla nec cursus elit</a></li>
-                <li><a href="#">Vulputate sed nec</a></li>
-                <li><a href="#">Cursus augue hasellus</a></li>
-                <li><a href="#">Lacinia ac sapien</a></li>
+                <h4>Enactus Aswan</h4>
+                <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+                <ul class="social-icons">
+                <li>
+                    <a rel="nofollow" href="https://fb.com/templatemo" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                </li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
             </div>
             <div class="col-md-3 footer-item">
