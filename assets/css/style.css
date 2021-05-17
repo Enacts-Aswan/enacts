@@ -205,7 +205,7 @@ header .navbar {
 	position: absolute;
     width: 160px;
     height: 60px;
-    top: 6px;
+    top: 3px;
 }
 #navbarResponsive {
 	z-index: 999;
@@ -308,15 +308,15 @@ header .navbar {
 }
 
 .Modern-Slider .item-1 .img-fill {
-	background-image: url(../images/slide_01.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/home/IMG_0956-edited.jpg);
 }
 
 .Modern-Slider .item-2 .img-fill {
-	background-image: url(../images/slide_02.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/home/IMG_1847.jpg);
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/slide_03.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/home/IMG_20190718_162919_245.jpg);
 }
 
 .Modern-Slider .NextArrow{
@@ -1217,14 +1217,15 @@ footer .contact-form button.filled-button:hover {
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	.navbar .navbar-brand {
 		position: absolute;
 		left: 30px;
-		top: 18px;
-	}
-	.navbar .navbar-brand {
 		width: auto;
+	}
+	.navbar .navbar-brand .logo {
+		top: 5px;
+		height: 50px;
 	}
 	.navbar:after {
 		display: none;

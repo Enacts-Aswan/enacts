@@ -11,8 +11,8 @@
             <div class="img-fill">
                 <div class="text-content">
                   <h6>we are ready to help you</h6>
-                  <h4>Enactus Aswan<br>&amp; Team</h4>
-                  <p>This finance HTML template is 100% free of charge provided by TemplateMo for everyone. This is a multiple-page version with different HTML pages. <a href="one-page.html">One-page version</a> is available as of 2021 February.</p>
+                  <h4>Enactus Aswan</h4>
+                  <p>This finance HTML template is 100% free of charge provided by TemplateMo for everyone. This is a multiple-page version with different HTML pages. is available as of 2021 February.</p>
                   <a href="contact.html" class="filled-button">contact us</a>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                   <h6>we are here to support you</h6>
                   <h4>Accounting<br>&amp; Management</h4>
                   <p>You are allowed to use this template for your company websites. You are NOT allowed to re-distribute this template ZIP file on any template download website. Please contact TemplateMo for more detail.</p>
-                  <a href="services.html" class="filled-button">our services</a>
+                  <a href="projects.html" class="filled-button">our projects</a>
                 </div>
             </div>
           </div>
@@ -51,7 +51,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Financial <em>Services</em></h2>
+              <h2>Enactus <em>Aswan</em></h2>
               <span>Aliquam id urna imperdiet libero mollis hendrerit</span>
             </div>
           </div>
@@ -218,8 +218,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Request a <em>call back</em></h2>
-              <span>Etiam suscipit ante a odio consequat</span>
+              <h2>Send a <em>messsage</em></h2>
+              <span>We appreciate your opinion about us and hope to receive your feedback.</span>
             </div>
           </div>
           <div class="col-md-12">

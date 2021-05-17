@@ -10,7 +10,7 @@
                 <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
                 <ul class="social-icons">
                 <li>
-                    <a rel="nofollow" href="https://fb.com/templatemo" target="_blank">
+                    <a rel="nofollow" href="#" target="_blank">
                         <i class="fa fa-facebook"></i>
                     </a>
                 </li>
@@ -21,10 +21,10 @@
             <div class="col-md-3 footer-item">
                 <h4>Additional Pages</h4>
                 <ul class="menu-list">
-                <li><a href="#">About Us</a></li>
+                <li><a href="about.php">About Us</a></li>
                 <li><a href="#">How We Work</a></li>
                 <li><a href="#">Quick Support</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
                 <li><a href="#">Privacy Policy</a></li>
                 </ul>
             </div>
