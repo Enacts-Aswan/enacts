@@ -36,7 +36,7 @@
         <link rel="stylesheet" href="assets/css/owl.css">
     </head>
     <body>
-        <!-- ***** Preloader Start ***** -->
+        <!-- ***** Preloader Start 
         <div id="preloader">
             <div class="jumper">
                 <div></div>
@@ -44,7 +44,7 @@
                 <div></div>
             </div>
         </div>  
-        <!-- ***** Preloader End ***** -->
+         ***** Preloader End ***** -->
 
         <header class="">
             <nav class="navbar navbar-expand-md">
